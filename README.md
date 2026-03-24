@@ -4,7 +4,7 @@ A Python chatbot built using the OpenAI API. This project was created to explore
 
 ## Overview
 
-![Chatbot Screenshot](public\screenshot.png)
+![Chatbot Screenshot](public/screenshot.png)
 This project uses the OpenAI API to generate chatbot responses from user input. It was built as a hands-on project to practise Python development, API integration, environment configuration, and simple backend structure.
 
 ## Features
@@ -44,4 +44,7 @@ I built this project to learn how to integrate the OpenAI API into a Python appl
 Example:
 
 ```bash
-python server.py
+pip install uvicorn
+uvicorn server:app --reload
+
+http://127.0.0.1:8000
