@@ -5,7 +5,7 @@ A Python chatbot built using the OpenAI API. This project was created to explore
 ## Overview
 
 ![Chatbot Screenshot](public/screenshot.png)
-This project uses the OpenAI API to generate chatbot responses from user input. It was built as a hands-on project to practise Python development, API integration, environment configuration, and simple backend structure.
+This project uses the OpenAI API to generate chatbot responses from user input. It was built as a project to practise Python development, API integration, environment configuration, and simple backend structure.
 
 ## Features
 
@@ -29,10 +29,6 @@ This project uses the OpenAI API to generate chatbot responses from user input. 
 - OpenAI API
 - SQLite
 - Environment variables
-
-## Why I Built It
-
-I built this project to learn how to integrate the OpenAI API into a Python application and understand the basics of chatbot development, including request handling, backend structure, and local data management.
 
 ## How to Run
 
